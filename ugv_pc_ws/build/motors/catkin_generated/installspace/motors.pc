@@ -1,0 +1,8 @@
+prefix=/home/mohamed/ugv_ws/install
+
+Name: motors
+Description: Description of motors
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+main_motors:motors:vision
+-DCATKIN_DEVEL_PREFIX=/home/mohamed/ugv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/ugv_ws/install -G Unix Makefiles
